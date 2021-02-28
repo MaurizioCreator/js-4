@@ -1,13 +1,14 @@
-let abc = 23;
+let abc = 234567;
 
-abc = 25.43;
+abc = 25.43432432;
 
-abc = 'gfdgdfg';
+abc = 'gfdgdfgFGDFDGFDG';
 
 
-abc = () => {VCVC
+abc = () => {
+    console.log("Ghbdtn");
 };
 
-abc = 'Ghbdtb'
+abcfds = 'Ghbdtdfsdfb'
 
 console.log(abc);
